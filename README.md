@@ -35,4 +35,6 @@
 
 
 
-Support my work -> [Buy me a coffee](https://buy.stripe.com/7sI00LetbcM6h1u144) !
+![](.gitbook/assets/bmc-button.svg)
+
+Please support my work! -> [https://buy.stripe.com/7sI00LetbcM6h1u144](https://buy.stripe.com/7sI00LetbcM6h1u144)

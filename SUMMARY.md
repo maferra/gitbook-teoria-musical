@@ -1,11 +1,5 @@
 # Table of contents
 
-## Support my Work
-
-* [Buy me a coffee](https://buy.stripe.com/7sI00LetbcM6h1u144)
-
-***
-
 * [Teoria Musical](README.md)
 * [Prefácio](prefacio.md)
 
