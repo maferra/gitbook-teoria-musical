@@ -35,6 +35,6 @@
 
 
 
-![](.gitbook/assets/bmc-button.svg)
+[![Buy Me a Coffee Support Link](https://github.com/maferra/gitbook-teoria-musical/raw/main/.gitbook/assets/bmc-button.svg)](https://buy.stripe.com/7sI00LetbcM6h1u144)
 
 Please support my work! -> [https://buy.stripe.com/7sI00LetbcM6h1u144](https://buy.stripe.com/7sI00LetbcM6h1u144)
