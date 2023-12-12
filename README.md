@@ -3,6 +3,8 @@
 * Portuguese book about music theory.
 * Livro em português sobre teoria musical.
 
+> ! Please star this [repository on GitHub](https://github.com/maferra/gitbook-teoria-musical) if you end up using this project. If it has improved your life, consider donating to my mission using the [Buy Me a Coffee](https://buy.stripe.com/7sI00LetbcM6h1u144) button. It will help me to continue supporting this product !
+
 ### Capítulos
 
 #### 1 Fundamentos
