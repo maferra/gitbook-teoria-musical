@@ -3,7 +3,7 @@
 * Portuguese book about music theory.
 * Livro em português sobre teoria musical.
 
-> 👋 Please star this [repository on GitHub](https://github.com/maferra/gitbook-teoria-musical) if you end up using this project. If it has improved your life, consider donating to my mission using the [Buy Me a Coffee](https://buy.stripe.com/7sI00LetbcM6h1u144) button. It will help me to continue supporting this product !
+> 👋 If this book has improved your life, consider supporting my work by [buying me a coffee](https://www.buymeacoffee.com/maferra) or becoming my [GitHub sponsor](https://github.com/sponsors/maferra). It will help me continue writing more content. Thank You !
 
 ### Capítulos
 
@@ -34,9 +34,3 @@
 #### 4 Palavras finais
 
 [conclusoes.md](4-palavras-finais/conclusoes.md "mention")
-
-
-
-[![Buy Me a Coffee Support Link](https://github.com/maferra/gitbook-teoria-musical/raw/main/.gitbook/assets/bmc-button.svg)](https://buy.stripe.com/7sI00LetbcM6h1u144)
-
-Please support my work! -> [https://buy.stripe.com/7sI00LetbcM6h1u144](https://buy.stripe.com/7sI00LetbcM6h1u144)
