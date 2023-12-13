@@ -45,7 +45,4 @@
 ## 4 Palavras Finais
 
 * [Conclusões](4-palavras-finais/conclusoes.md)
-
-***
-
 * [Buy me a coffee](https://www.buymeacoffee.com/maferra)
