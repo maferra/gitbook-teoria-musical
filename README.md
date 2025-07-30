@@ -6,7 +6,7 @@ Escrito por [Marco Ferra](https://marcoferra.com/) — Lisboa, Portugal (desde 2
 
 ### Como entrar em contato?
 
-* Enviar-me uma mensagem diretamente na página de [contato.md](4-posfacio/contato.md "mention")
+* Enviar-me uma mensagem diretamente na página [entrar-em-contato.md](4-posfacio/entrar-em-contato.md "mention")
 * Enviar-me um email para [semibreve@teoria-musical.com](mailto:semibreve@teoria-musical.com)
 
 ### Conteúdo
