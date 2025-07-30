@@ -4,8 +4,8 @@
 
 
 
-* Escrito por [Marco Ferra](https://marcoferra.com/) — Lisboa, Portugal
-* Enviar uma mensagem para [hello@teoria-musical.com](mailto:hello@teoria-musical.com)
+* Escrito por [Marco Ferra](https://marcoferra.com/) — [Lisboa, Portugal](https://en.wikipedia.org/wiki/Lisbon)
+* Enviar uma mensagem para [semibreve@teoria-musical.com](mailto:semibreve@teoria-musical.com)
 
 
 
