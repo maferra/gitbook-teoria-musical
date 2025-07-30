@@ -4,7 +4,7 @@
 
 
 
-* Escrito por [Marco Ferra](https://marcoferra.com/) — [Lisboa, Portugal](https://en.wikipedia.org/wiki/Lisbon)
+* Escrito por [Marco Ferra](https://marcoferra.com/) — Lisboa, Portugal (desde 2017 — presente)
 * Enviar uma mensagem para [semibreve@teoria-musical.com](mailto:semibreve@teoria-musical.com)
 
 
