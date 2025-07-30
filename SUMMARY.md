@@ -46,4 +46,3 @@
 ## 4 Posfácio
 
 * [Palavras Finais](4-posfacio/palavras-finais.md)
-* [Entrar em contato](4-posfacio/entrar-em-contato.md)
