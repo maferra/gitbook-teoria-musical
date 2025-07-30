@@ -1,6 +1,13 @@
 # Teoria Musical
 
-Escrito por [Marco Ferra](https://marcoferra.com/) — Lisboa, Portugal
+### Bem-vindo!
+
+
+
+* Escrito por [Marco Ferra](https://marcoferra.com/) — Lisboa, Portugal
+* Enviar uma mensagem para [hello@teoria-musical.com](mailto:hello@teoria-musical.com)
+
+
 
 ### Conteúdo
 
