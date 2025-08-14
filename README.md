@@ -2,11 +2,11 @@
 
 ### Bem-vindo!
 
-Escrito por [Marco Ferra](https://marcoferra.com/) — Lisboa, Portugal (desde 2017 — presente)
+Escrito por [Marco Ferra](https://www.marcoferra.com/) — Lisboa, Portugal (desde 2017 — presente)
 
 ### Como entrar em contato?
 
-* Enviar-me um email para [semibreve@teoria-musical.com](mailto:semibreve@teoria-musical.com)
+* Enviar-me um email para [compasso@teoria-musical.com](mailto:compasso@teoria-musical.com)
 
 ### Conteúdo
 
