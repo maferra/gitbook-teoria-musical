@@ -7,7 +7,6 @@ Escrito por [Marco Ferra](https://www.marcoferra.com/) — Lisboa, Portugal (des
 ### Como enviar-me uma mensagem?
 
 * Enviar um email para [compasso@teoria-musical.com](mailto:compasso@teoria-musical.com)
-* Usar o formulário de [contacto.md](4-posfacio/contacto.md "mention")
 
 ### Conteúdo
 
